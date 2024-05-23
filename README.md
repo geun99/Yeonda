@@ -17,17 +17,7 @@
 ### ✔︎ 진행기간 : 2024.4.19 ~ 5/23
 
 ## 🛠 사용한 기술 스택
-### BackEnd
-- Express
-- Socket.io
-- OpenAI
-- JWT
-- NodeMailer
-- Joi
-- aws-sdk/client-s3
-- multer
-  
-### FrontEnd
+
 - React
 - TypeScript
 - Vite
@@ -39,7 +29,7 @@
 - Zustand
 - Jest
 
-## 🛠 주요 기능
+## 🛠 내가 구현한 기능
 ### ✔︎ 튜토리얼 
 - 처음 접속하면 전체 서비스들에 대한 소개가 있는 튜토리얼 페이지로 이동합니다.
 - 튜토리얼 페이지를 모두 확인하면 로그인 페이지로 이동합니다.
@@ -79,33 +69,34 @@
   <img width="1200" src="https://velog.velcdn.com/images/geun99/post/dbaa27e2-c638-4d2a-8069-fa64d1c0993d/image.gif">
 </details>
 
- 
+### ✔︎ Error 페이지
+- 잘못된 주소로 접속을 요청하거나, 에러가 발생한 경우 에러 페이지로 이동시켜줍니다.
+<details markdown="1">
+<summary>Error</summary>
+  <img width="300" src="https://velog.velcdn.com/images/geun99/post/6c5effda-5d94-45a0-aeea-5800ab67af6b/image.png">
+</details> 
 
 ## 📁 Directory Structure
 ```
 📦src
-  ┣ 📂controllers	: 비즈니스 로직 컨트롤러
-  ┣ 📂databases	: DAO
-  ┣ 📂logs	: 로그 파일
-  ┣ 📂middlewares	: 미들 웨어
-  ┣ 📂models	: DB 테이블 타입 설정
-  ┣ 📂routes	: 라우트
-  ┣ 📂schemas : 스키마
-  ┣ 📂sockets	: 소켓
-  ┣ 📂storage	: 저장소
-  ┣ 📂tests	: Jest 통합 테스트	
-  ┣ 📂utils	: 유틸
-  ┣ 📜app.ts	: Express/Socket.io 및 라우팅
-  ┣ 📜db.ts	: DB 연결 싱글턴 객체
-  ┣ 📜error.ts	: 에러 설정
-  ┣ 📜index.ts : 루트 파일 (서버 설정)
-  ┗ 📜logger.ts : Logger 설정
-┣ 📜jest.config.mjs	: Jest 설정
-┣ 📜nodemon.json	: Dev 설정
-┣📜eslint.config.mjs	: ESLint 설정
-┣📜.eslintrc.js : ESLint 설정
-┗📜.prettierrc : Prettier 설정
-
+  ┣ 📂api		: rest api 호출
+  ┣ 📂assets		: 이미지, 폰트 파일
+  ┣ 📂components	: 컴포넌트
+  ┣ 📂constants	: 상수
+  ┣ 📂hooks		: 커스텀 훅
+  ┣ 📂layout 		: 레이아웃
+  ┣ 📂mocks		: mock data
+  ┣ 📂pages		: Route 관리
+  ┣ 📂store		: 전역 상태 관리	
+  ┣ 📂test		: Jest 테스트
+  ┣ 📂types		: Type관리
+  ┣ 📂utils		: 날짜,숫자 등 유틸 함수
+┣ 📜jest.config.js	: Jest 설정
+┣ 📜tailwind.config.js	: Tailwind 설정
+┣ 📜tsconfig.json	: TypeScript설정
+┣ 📜vite.config.ts	: Vite설정
+┣ 📜.eslintrc.cjs 	: ESLint 설정
+┗ 📜.prettierrc :	: Prettier 설정
 ```
 
 ## 팀원
@@ -122,7 +113,9 @@
             <img src="https://avatars.githubusercontent.com/u/133825914?v=4" width="100px;" height="100px;" alt="이호성"/>
 <h3><b>이호성</b></h3></a></td>
 </table>
+
 ### FE
+
 <table >
   <tbody>
       <td align="center">
