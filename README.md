@@ -23,11 +23,8 @@
 - Vite
 - Tailwind CSS
 - Axios
-- Tanstack Query
-- Socket.io
 - React Hook Form
 - Zustand
-- Jest
 
 ## 🛠 내가 구현한 기능
 ### ✔︎ 튜토리얼 
