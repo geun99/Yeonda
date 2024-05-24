@@ -39,6 +39,7 @@
 - Email 인증을 통해 회원가입/비밀번호 찾기를 수행할 수 있고, 계정정보 뿐만 아니라, 성별, 연령대, 거리 등 매칭 상대의 취향을 선택할 수 있습니다.
 - 로그인시 Access-Token과 Refreash-Token으로 인증정보를 쿠키에 저장합니다.
 - HOC를 이용해 로그인상태에서 로그인/회원가입/비밀번호 찾기 페이지로 이동을 시도하면, 메인페이지로 이동시켜주며, 401에러가 나면 refreshToken을 시도하고, 실패시 전역으로 관리하는 로그인 정보를 로그아웃 상태로 바꾸며 로그인 페이지로 이동시킵니다.
+- 관리자 아이디로 로그인시, 관리자 페이지로 이동됩니다.
 <details markdown="1">
 <summary>로그인</summary>
   <img width="300" src="https://velog.velcdn.com/images/geun99/post/8af72c97-a5d4-4bbd-b2cb-0fc5d099d600/image.png">
