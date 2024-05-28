@@ -7,7 +7,7 @@
   <br/><br/>
 </div>
 
-## 📎 [연다 바로가기](http://yeonda.prgms-fullcycle.com/)
+## 📎 [연다 소개영상](https://mybox.naver.com/share/list/viewer/3472575136366543204?shareKey=59nztfGZgp7IXw7PMKSY3339ETsKI3AUj0Tj07dKqtvNcH-xDo-_jmkKmvKC3Ojgb4AP4apiqxvKkBmC_YMv4gE=)
 
 ## 💡 프로젝트 소개
 일기를 기반으로 한 소개팅 서비스<br/>
