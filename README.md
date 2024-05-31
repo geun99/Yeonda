@@ -9,6 +9,8 @@
 
 ## 📎 [연다 소개영상](https://mybox.naver.com/share/list/viewer/3472575136366543204?shareKey=59nztfGZgp7IXw7PMKSY3339ETsKI3AUj0Tj07dKqtvNcH-xDo-_jmkKmvKC3Ojgb4AP4apiqxvKkBmC_YMv4gE=)
 
+## [Figma](https://www.figma.com/design/Dfp1v5fVylqsRQPYRx5C5s/Main?t=6dM2WfXHLjvQVV8w-0)
+
 ## 💡 프로젝트 소개
 일기를 기반으로 한 소개팅 서비스<br/>
 매칭 선호를 기반으로 하여 일기를 보여주고, 좋아요를 통해 매칭을 해주는 일기 소개팅 서비스입니다.
