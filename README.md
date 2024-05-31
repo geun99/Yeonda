@@ -29,6 +29,27 @@
 - Zustand
 
 ## 🛠 내가 구현한 기능
+### ✔︎ 공통 컴포넌트 
+<details markdown="1">
+<summary>관심사 태그</summary>
+ 
+  ![image](https://github.com/geun99/Pok-Wiki/assets/150868973/ce4a6ffb-b9c5-49fc-8a53-9d1ed672de06)
+
+</details>
+<details markdown="1">
+<summary>로딩 인디케이터</summary>
+
+![image](https://github.com/geun99/Pok-Wiki/assets/150868973/d2b51de4-525a-4bcf-9336-2261781ba81f)
+
+</details>
+<details markdown="1">
+<summary>성별 선택 모달</summary>
+
+  ![image](https://github.com/geun99/Pok-Wiki/assets/150868973/141f103a-80f6-441c-8515-a9d677a16b58)
+
+</details>
+
+
 ### ✔︎ 튜토리얼 
 - 처음 접속하면 전체 서비스들에 대한 소개가 있는 튜토리얼 페이지로 이동합니다.
 - 튜토리얼 페이지를 모두 확인하면 로그인 페이지로 이동합니다.
