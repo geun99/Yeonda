@@ -30,6 +30,10 @@
 
 ## 🛠 내가 구현한 기능
 ### ✔︎ 공통 컴포넌트 
+- 관심사 태그에서는 관심사 태그를 선택, 삭제할 수 있으며, 검색을 통한 필터링 기능을 제공합니다.
+- 로딩 인디케이터는 요청을 기다리는 중에 보여줍니다.
+- 성별 선택모달은 매칭할 상대의 성별을 선택할 때 사용합니다. 남성/여성/무관 세가지 선택지가 있습니다.
+- 주소 검색 모달은 카카오의 주소 검색 api를 이용하여 주소를 편하게 입력할 수 있도록 해줍니다.
 <details markdown="1">
 <summary>관심사 태그</summary>
  
@@ -46,6 +50,12 @@
 <summary>성별 선택 모달</summary>
 
   ![image](https://github.com/geun99/Pok-Wiki/assets/150868973/141f103a-80f6-441c-8515-a9d677a16b58)
+
+</details>
+<details markdown="1">
+<summary>주소 검색 API 기반 주소 검색 모달</summary>
+
+![image](https://github.com/geun99/Pok-Wiki/assets/150868973/44bf30aa-5182-4613-95b6-e21083cf2ec2)
 
 </details>
 
