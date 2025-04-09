@@ -63,10 +63,6 @@
 ### ✔︎ 튜토리얼 
 - 처음 접속하면 전체 서비스들에 대한 소개가 있는 튜토리얼 페이지로 이동합니다.
 - 튜토리얼 페이지를 모두 확인하면 로그인 페이지로 이동합니다.
-<details markdown="1">
-<summary>튜토리얼</summary>
-  <img width="300" src="https://velog.velcdn.com/images/geun99/post/fc8a4c3d-0675-4aea-a187-366dc03a2572/image.gif">
-</details>
 
 ### ✔︎ 로그인/회원가입/비밀번호 찾기
 - Email 인증을 통해 회원가입/비밀번호 찾기를 수행할 수 있고, 계정정보 뿐만 아니라, 성별, 연령대, 거리 등 매칭 상대의 취향을 선택할 수 있습니다.
